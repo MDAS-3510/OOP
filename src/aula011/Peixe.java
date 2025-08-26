@@ -31,8 +31,5 @@ public class Peixe extends Animal {
         this.corEscama = corEscama;
     }
 
-    public Peixe(String corEscama) {
-        this.corEscama = corEscama;
-    }
 
 }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula11",
+            "request": "launch",
+            "mainClass": "aula011.Aula11",
+            "projectName": "Object-oriented programming Estudo"
+        },
+        {
+            "type": "java",
             "name": "Empresa",
             "request": "launch",
             "mainClass": "Poli.Empresa",

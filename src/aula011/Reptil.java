@@ -12,10 +12,7 @@ public class Reptil extends Animal {
         this.corEscama = corEscama;
     }
 
-    public Reptil(String corEscama) {
-        this.corEscama = corEscama;
-    }
-
+   
     @Override
     public void locomover() {
         System.out.println("Rastejando");
